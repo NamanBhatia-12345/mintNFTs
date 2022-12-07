@@ -1,0 +1,19 @@
+{
+
+    "attributes" : [
+        {
+            "trait_type" : "Color",
+             "value" : "Blue"
+        },
+        {
+            "trait_type" : "Type",
+            "value" : "Text"
+        }
+    ],
+    
+
+    "description" : "Text : Dream Big",
+    "image" : "https://ipfs.io/ipfs/QmRtT4aH5PdHds42kuX6mi2hUwuQwbT3qN3y6QbxJXkQrZ",
+    "name" : "AppBreweryWallpaper"
+
+}
